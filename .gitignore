@@ -1,3 +1,5 @@
 /target
 /.idea
 maven-kotlintest.iml
+/.kotlintest
+/tmp
